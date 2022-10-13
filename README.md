@@ -80,3 +80,10 @@ Follow [this guide](docs/CONTRIBUTING.md) for information on contributing.
 - Public REST APIs: https://documenter.getpostman.com/view/8854915/Szf7znEe
 - Go Gopher artwork by [Victoria Trum](https://www.fiverr.com/victoria_trum?source=order_page_user_message_link)
 - The original Go gopher was designed by the awesome [Renee French](http://reneefrench.blogspot.com/)
+
+
+# Contributors✨✨
+
+<a href="https://github.com/alpstable/gidari/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alpstable/gidari&&max=817" />
+</a>
